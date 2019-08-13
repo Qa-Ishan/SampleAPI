@@ -1,0 +1,13 @@
+C:\Users\ishans\source\repos\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.2\SampleAPI.dll
+C:\Users\ishans\source\repos\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.2\SampleAPI.deps.json
+C:\Users\ishans\source\repos\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.2\SampleAPI.runtimeconfig.json
+C:\Users\ishans\source\repos\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.2\SampleAPI.runtimeconfig.dev.json
+C:\Users\ishans\source\repos\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.csproj.CoreCompileInputs.cache
+C:\Users\ishans\source\repos\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.RazorAssemblyInfo.cache
+C:\Users\ishans\source\repos\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.RazorAssemblyInfo.cs
+C:\Users\ishans\source\repos\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.AssemblyInfoInputs.cache
+C:\Users\ishans\source\repos\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.AssemblyInfo.cs
+C:\Users\ishans\source\repos\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ishans\source\repos\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.dll
+C:\Users\ishans\source\repos\SampleAPI\SampleAPI\obj\Debug\netcoreapp2.2\SampleAPI.pdb
+C:\Users\ishans\source\repos\SampleAPI\SampleAPI\bin\Debug\netcoreapp2.2\SampleAPI.pdb
